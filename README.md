@@ -21,7 +21,7 @@ Presentation [here](https://docs.google.com/presentation/d/1-wL6kMeOhaRJtBSwSPcL
 Presentation [here](https://docs.google.com/presentation/d/1Y7fUXR2YVHlOI86Qr7pM7EqDtuFtmf2EQQJIdRDXxtI/edit?usp=sharing). A rough overview of a [paper](https://openreview.net/forum?id=YlGsTZODyjz) I worked on. Problems related to the calibration of likelihood-based generative models are covered. A hypothesis related to the behaviour of the Gaussian distribution is high dimensions is introduced, and the tilted prior is proposed as a remedy. Finally, the "will-it-move" test is discussed as an additional method to help with out-of-distribution detection.
 
 ### State-Space Models
-Presentation [here](https://docs.google.com/presentation/d/1Y7fUXR2YVHlOI86Qr7pM7EqDtuFtmf2EQQJIdRDXxtI/edit?usp=sharing). A review of the [HiPPO](https://arxiv.org/abs/2008.07669), [S4](https://arxiv.org/abs/2111.00396) and [Mamba](https://arxiv.org/abs/2312.00752) papers, currently a hot topic in recurrent neural networks.
+Presentation [here](https://docs.google.com/presentation/d/1RQ5JUEEfUkrzRH2BPzlfzH_93pENRdGkv4Z_bOQRe9g/edit?usp=sharing). A review of the [HiPPO](https://arxiv.org/abs/2008.07669), [S4](https://arxiv.org/abs/2111.00396) and [Mamba](https://arxiv.org/abs/2312.00752) papers, currently a hot topic in recurrent neural networks.
 
 
 # EleutherAI Diffusion Reading Group
